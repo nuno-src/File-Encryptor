@@ -1,0 +1,11 @@
+C:\Users\nunoc\Info Técnica\Programação\C#\programas\File-Encryptor\File-Encryptor\bin\Debug\File-Encryptor.exe.config
+C:\Users\nunoc\Info Técnica\Programação\C#\programas\File-Encryptor\File-Encryptor\bin\Debug\File-Encryptor.exe
+C:\Users\nunoc\Info Técnica\Programação\C#\programas\File-Encryptor\File-Encryptor\bin\Debug\File-Encryptor.pdb
+C:\Users\nunoc\Info Técnica\Programação\C#\programas\File-Encryptor\File-Encryptor\obj\Debug\File-Encryptor.csproj.AssemblyReference.cache
+C:\Users\nunoc\Info Técnica\Programação\C#\programas\File-Encryptor\File-Encryptor\obj\Debug\File-Encryptor.csproj.SuggestedBindingRedirects.cache
+C:\Users\nunoc\Info Técnica\Programação\C#\programas\File-Encryptor\File-Encryptor\obj\Debug\File_Encryptor.Form1.resources
+C:\Users\nunoc\Info Técnica\Programação\C#\programas\File-Encryptor\File-Encryptor\obj\Debug\File_Encryptor.Properties.Resources.resources
+C:\Users\nunoc\Info Técnica\Programação\C#\programas\File-Encryptor\File-Encryptor\obj\Debug\File-Encryptor.csproj.GenerateResource.cache
+C:\Users\nunoc\Info Técnica\Programação\C#\programas\File-Encryptor\File-Encryptor\obj\Debug\File-Encryptor.csproj.CoreCompileInputs.cache
+C:\Users\nunoc\Info Técnica\Programação\C#\programas\File-Encryptor\File-Encryptor\obj\Debug\File-Encryptor.exe
+C:\Users\nunoc\Info Técnica\Programação\C#\programas\File-Encryptor\File-Encryptor\obj\Debug\File-Encryptor.pdb
