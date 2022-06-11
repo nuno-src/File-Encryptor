@@ -129,7 +129,7 @@ namespace File_Encryptor
                     bw.Close();
                     fsChave.Close();
 
-                    MessageBox.Show("Ficheiro encriptado com sucesso." + pathDesktop);
+                    MessageBox.Show("Ficheiro encriptado com sucesso." + "\nFicheiro chave.key salvo em:" + pathDesktop);
                 }
 
             }
