@@ -115,7 +115,12 @@ namespace File_Encryptor
                     sw.Close();
                     fs.Close();
 
-                    FileStream fsChave = File.Create("chave.key");
+                    string pathDesktop = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
+                    //string pathKey = @""+ pathDesktop + "\\chave.key";
+                    string pathKey = pathDesktop + "\\chave.key";
+
+                    FileStream fsChave = File.Create(pathKey);
+                    
 
                     BinaryWriter bw = new BinaryWriter(fsChave);
 
@@ -124,7 +129,7 @@ namespace File_Encryptor
                     bw.Close();
                     fsChave.Close();
 
-                    MessageBox.Show("Ficheiro encriptado com sucesso.");
+                    MessageBox.Show("Ficheiro encriptado com sucesso." + pathDesktop);
                 }
 
             }
@@ -219,7 +224,7 @@ namespace File_Encryptor
                     //}
 
 
-
+                    
 
 
                     MessageBox.Show("Ficheiro desencriptado com sucesso.");
